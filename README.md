@@ -21,10 +21,6 @@ This project detects and extracts the **energy meter reading** (units) from an i
 
 ---
 
-## 🧪 Getting Started
-
-1. **Clone the repository:**
-
 ```bash
 git clone https://github.com/tanushree1510/ocr-energy-meter-unit-detection.git
 cd ocr-energy-meter-unit-detection
